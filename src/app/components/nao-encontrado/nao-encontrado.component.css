@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 20%);
+}
+
+.container i {
+  font-size: 200px;
+}
+
+.container h2 {
+  font-size: 44px;
+}

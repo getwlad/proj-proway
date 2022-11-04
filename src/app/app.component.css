@@ -1,0 +1,21 @@
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  height: 100%;
+}
+.layout {
+  width: 100%;
+  min-height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex-grow: 1;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  height: 100%;
+}
